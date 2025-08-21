@@ -53,7 +53,8 @@ Finally, we look forward. Armed with classification techniques, views and optimi
 2. **Water Crisis Analysis** – Aggregations, window functions, cleaning  
 3. **Data Narrative** – Joining multiple tables, audit analysis  
 4. **Future Outlook** – Subqueries, CTEs, and water source classification
-   ---
+ 
+---
 
 ## Skills Practiced  
 - SQL fundamentals (**DDL, DML, Joins, Set Operations**)  
