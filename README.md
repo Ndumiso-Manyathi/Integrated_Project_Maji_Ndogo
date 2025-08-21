@@ -32,7 +32,3 @@ The third stage of the journey connects the dots. By joining tables and cross-re
 Finally, we look forward. Armed with classification techniques, views and optimised queries, we prepare insights that engineers and policymakers could use. Wells are categorised by safety, locations are prioritised for intervention and the tangled story of water in Maji Ndogo is distilled into actionable knowledge.  
 
 ---
-
-```markdown
-![ERD - Maji Ndogo database](./diagrams/ERD.png)
-*Figure: Entity-Relationship Diagram (ERD) for the Maji Ndogo dataset — add `ERD.png` to `/diagrams`.*
